@@ -11,6 +11,14 @@ I'm currently on a journey as an Associate Software Engineer at Harris Web Works
 - **Frontend Fusion**: From React riddles to jQuery jazz, I specialize in modern frontend development, creating interfaces that captivate and mesmerize. 🎨
 - **Passion for Problem-Solving**: I thrive on challenges, uncovering elegant solutions using PHP, JavaScript, and MySQL, turning problems into possibilities. 🔍
 
+## Skills 🌟
+- **PHP**: ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░ 70%
+- **JavaScript**: ██████████████████░░░░░░░░░░░░░░░ 90%
+- **Laravel**: ██████████████░░░░░░░░░░░░░░░░░░░░░ 80%
+- **Magento**: █████████░░░░░░░░░░░░░░░░░░░░░░░░░ 60%
+- **React**: ██████████░░░
+
+
 ## Why Choose Me? 🌟
 - **Innovation Enthusiast**: I'm always on the lookout for the latest trends and emerging technologies, crafting solutions that push boundaries. 🌐
 - **Collaborative Spirit**: I'm a team player, fostering open communication and synergy to turn ideas into reality. 🤝
