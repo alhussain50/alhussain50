@@ -1,7 +1,9 @@
 # Hey there! 👋
 
 Welcome to my GitHub Universe! I'm Md Masuk Al Hussain, a passionate Software Engineer with a knack for crafting remarkable digital experiences. 🌟 <br>
+<p align="center">
   ![Magento](https://img.icons8.com/color/48/000000/magento.png) ![Laravel](https://img.icons8.com/ios-filled/50/000000/laravel.png) ![Frontend Development](https://img.icons8.com/color/48/000000/react-native.png) ![jQuery](https://img.icons8.com/ios-filled/50/000000/jquery.png) ![PHP](https://img.icons8.com/ios-filled/50/000000/php.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)  ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png)
+</p>
 ## About Me ℹ️
 I'm currently on a journey as an Associate Software Engineer at Harris Web Works, where I specialize in sculpting robust e-commerce sites with Magento and crafting in-house marvels with Laravel. My mission? Seamlessly blend innovation with practicality to empower businesses in the dynamic online sphere. 💼
 
