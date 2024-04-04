@@ -18,7 +18,7 @@ I'm currently on a journey as an Associate Software Engineer at Harris Web Works
 - **Continuous Improvement**: I believe in constant iteration, driving excellence in every aspect of software engineering. 📈
 
 ## Let's Connect! 🚀
-I'm all ears for exciting projects and eager to connect with fellow enthusiasts! Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/md-masuk-al-hussain/) or [Twitter](https://twitter.com/MasukAlHussain). Let's innovate, collaborate, and create wonders together! 🌟
+I'm all ears for exciting projects and eager to connect with fellow enthusiasts! Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/masukalhussain/). Let's innovate, collaborate, and create wonders together! 🌟
 
 
 <!--
