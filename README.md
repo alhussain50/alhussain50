@@ -12,12 +12,11 @@ I'm currently on a journey as an Associate Software Engineer at Harris Web Works
 - **Passion for Problem-Solving**: I thrive on challenges, uncovering elegant solutions using PHP, JavaScript, and MySQL, turning problems into possibilities. 🔍
 
 ## Skills 🌟
-- **PHP**: ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░ 70%
-- **JavaScript**: ██████████████████░░░░░░░░░░░░░░░ 90%
-- **Laravel**: ██████████████░░░░░░░░░░░░░░░░░░░░░ 80%
-- **Magento**: █████████░░░░░░░░░░░░░░░░░░░░░░░░░ 60%
-- **React**: ██████████░░░
-
+- **PHP**: <span style="color: #FFD700">██████████</span><span style="color: #C0C0C0">░░░░░░░░░</span> 70%
+- **JavaScript**: <span style="color: #FFD700">█████████████████</span><span style="color: #C0C0C0">░░░░░░░░░░░░░░</span> 90%
+- **Laravel**: <span style="color: #FFD700">█████████████</span><span style="color: #C0C0C0">░░░░░░░░░░░░░░</span> 80%
+- **Magento**: <span style="color: #FFD700">████████</span><span style="color: #C0C0C0">░░░░░░░░░░░░░░░</span> 60%
+- **React**: <span style="color: #FFD700">█████████</span><span style="color: #C0C0C0">░░░░░░░░░░░░</span>
 
 ## Why Choose Me? 🌟
 - **Innovation Enthusiast**: I'm always on the lookout for the latest trends and emerging technologies, crafting solutions that push boundaries. 🌐
